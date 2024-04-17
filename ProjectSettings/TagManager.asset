@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fireball
+  - Flamable
+  - Dialogue
+  - Enemy
+  - Checkpoint
+  - Ambrosia
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - WaterLayer
+  - Objects
+  - Enemy
+  - Platform
+  - NoObjectPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 4122028967
+    locked: 0
+  - name: Ground
+    uniqueID: 973655309
+    locked: 0
+  - name: Platforms
+    uniqueID: 4176188455
+    locked: 0
+  - name: Objects
+    uniqueID: 3851439639
+    locked: 0
+  - name: Enemies
+    uniqueID: 1485337755
+    locked: 0
+  - name: Player
+    uniqueID: 3951541947
+    locked: 0
